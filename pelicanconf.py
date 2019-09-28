@@ -31,15 +31,26 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
+# MARKUP = ('md', 'ipynb')
+
+# PLUGIN_PATH = './plugins'
 MARKUP = ('md', 'ipynb')
 
-PLUGIN_PATH = './plugins'
-PLUGINS = ['ipynb.markup']
- 
+# Path to the folder containing the plugins
+PLUGIN_PATHS = ['./pelican-plugins']
+
+# Enabled plugins
+PLUGINS = ['sitemap', 'pelican-ipynb.markup', 'liquid_tags.notebook', 'liquid_tags.generic']
+
+LIQUID_CONFIGS = (('PATH', '.', "The default path"), ('THEME', '', 'The theme in use'),
+                  ('SITENAME', 'Default Sitename', 'The name of the site'), ('AUTHOR', '', 'Name of the blog author'))
+
  
 # if you create jupyter files in the content dir, snapshots are saved with the same
 # metadata. These need to be ignored. 
 IGNORE_FILES = [".ipynb_checkpoints"]  
+IPYNB_USE_METACELL = True
+LOAD_CONTENT_CACHE = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
