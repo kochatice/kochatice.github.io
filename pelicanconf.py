@@ -34,7 +34,7 @@ DEFAULT_PAGINATION = 10
 # MARKUP = ('md', 'ipynb')
 
 # PLUGIN_PATH = './plugins'
-MARKUP = ('md', 'pelican-ipynb')
+MARKUP = ('md', 'ipynb')
 
 # Path to the folder containing the plugins
 PLUGIN_PATHS = ['./pelican-plugins']
