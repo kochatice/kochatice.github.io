@@ -4,56 +4,56 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2019-09-28T17:16:31-00:00</lastmod>
+<loc>kochatice.github.io/</loc>
+<lastmod>2019-09-28T17:44:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2019-09-28T17:16:31-00:00</lastmod>
+<loc>kochatice.github.io/archives.html</loc>
+<lastmod>2019-09-28T17:44:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2019-09-28T17:16:31-00:00</lastmod>
+<loc>kochatice.github.io/tags.html</loc>
+<lastmod>2019-09-28T17:44:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2019-09-28T17:16:31-00:00</lastmod>
+<loc>kochatice.github.io/categories.html</loc>
+<lastmod>2019-09-28T17:44:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/with-meta-file2.html</loc>
+<loc>kochatice.github.io/with-meta-file2.html</loc>
 <lastmod>2100-12-31T00:00:00-08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/misc.html</loc>
+<loc>kochatice.github.io/category/misc.html</loc>
 <lastmod>2100-12-31T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/test.html</loc>
+<loc>kochatice.github.io/tag/test.html</loc>
 <lastmod>2100-12-31T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/mustafa-ray.html</loc>
+<loc>kochatice.github.io/author/mustafa-ray.html</loc>
 <lastmod>2100-12-31T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
